@@ -1,5 +1,3 @@
-# smart-plant-watering-and-monitoring-system
-
 <h1>Smart Plant Watering & Health Monitoring System</h1>
 
 <h2>Project Description</h2>
@@ -18,5 +16,3 @@ With real-time monitoring through a Node-RED dashboard, predictive analytics, an
     • Interactive visualization dashboard (Node-RED)<br>
     • Automated alerts for abnormal environmental conditions<br>
     • Remote control of watering through web interface<br><br>
-
-![alt text](system_diagram.png)
